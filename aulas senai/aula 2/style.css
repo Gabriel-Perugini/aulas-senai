@@ -1,0 +1,22 @@
+#vermelha{
+    background-color: red;
+}
+#logo{
+    height: 100px;
+}
+#rosa{
+    display: flex;
+    flex-direction: flex-start;
+    background-color: pink;
+}
+#beijaflor{
+    height: 100px;
+}
+#amarelo{
+    display: flex;
+    flex-direction: flex-start;
+    background-color: yellow;
+}
+#verde{
+    background-color: green;
+}
